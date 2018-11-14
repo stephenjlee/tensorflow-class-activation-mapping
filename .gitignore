@@ -92,3 +92,4 @@ do-not-commit
 .idea
 .DS_Store
 out/
+tmp/
